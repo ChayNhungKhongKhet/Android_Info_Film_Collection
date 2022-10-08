@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087517169317",
+    "project_id": "info-film-collection",
+    "storage_bucket": "info-film-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087517169317:android:2b7719cffeea6938b85f4c",
+        "android_client_info": {
+          "package_name": "com.phamtantb24.infofilmcollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087517169317-evoanibt3aguuk3k3sq3hu4i8erluuns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gtpOuJm6dGZ2zjGkgd5zORezaHyrQYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087517169317-evoanibt3aguuk3k3sq3hu4i8erluuns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
